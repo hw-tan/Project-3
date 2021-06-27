@@ -1,5 +1,5 @@
 # Project-3
-##Subreddit classification - r/wallstreetbets &amp; r/valueinvesting
+## Subreddit classification - r/wallstreetbets &amp; r/valueinvesting
 
 Reddit is an online forum where users can post ideas/ contents in groups called subreddits. It is widely popular and naturally this provides us with a huge database of text data regarding a certain topic. In this notebook, we seek to explore the use of natural language processing in classifying which subreddit does a post belong to.
 
