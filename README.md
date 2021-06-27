@@ -1,5 +1,6 @@
 # Project-3
-Subreddit classification - r/wallstreetbets &amp; r/valueinvesting
+##Subreddit classification - r/wallstreetbets &amp; r/valueinvesting
+
 Reddit is an online forum where users can post ideas/ contents in groups called subreddits. It is widely popular and naturally this provides us with a huge database of text data regarding a certain topic. In this notebook, we seek to explore the use of natural language processing in classifying which subreddit does a post belong to.
 
 We have selected r/wallstreetbets and r/valueinvesting as the subreddits in this study. These are 2 subreddits that discuss about investments in the financial markets, most of the posts are either questions regarding investing or investment pitches. Where the 2 subreddits defer is on the style of investing as well as the tone of discussion. r/wallstreetbets is more casual and filled with memes, their general investment methodology includes going all in (or YOLO) into high risk growth stocks hoping for it to go to the moon. r/valueinvesting is more serious in its discussion, their investment methodology is (as the title says) value investing where they place emphasis on the company’s fundamentals.
